@@ -1,6 +1,8 @@
 let myName = 'Akpan Abraham';
 let myCourses = ["HTML", "CSS", "JavaScript"];
 
+console.log(myName);
+
 
 for (x=1; x<=200; x++){
     if (x === 0) {
@@ -13,3 +15,5 @@ for (x=1; x<=200; x++){
         console.log(x + " is odd");
     }
 }
+
+
